@@ -5,8 +5,12 @@ I forked this to my own repo so I could edit the css a bit and have a link to th
 - [Miku](Miku.theme.css)
 - [Super Mario Odyssey](SMO.theme.css)
 
-## My edited version ([Miku](Miku.theme.css))
+## [Miku Theme](Miku.theme.css)
 <img width="1725" height="875" alt="image" src="https://github.com/user-attachments/assets/edba1ea0-e2fc-41c7-872d-3b07b2b41a95" />
+
+## [SMO Theme](SMO.theme.css)
+<img width="1728" height="882" alt="image" src="https://github.com/user-attachments/assets/98080558-f591-436c-a9b4-1984a886cbcb" />
+
 
 # Vencord Instructions
 You can get vencord [here](https://vencord.dev)
