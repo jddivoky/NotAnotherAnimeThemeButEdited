@@ -9,6 +9,7 @@ I forked this to my own repo so I could edit the css a bit and have a link to th
 <img width="1725" height="875" alt="image" src="https://github.com/user-attachments/assets/edba1ea0-e2fc-41c7-872d-3b07b2b41a95" />
 
 # Vencord Instructions
+You can get vencord [here](https://vencord.dev)
 1. Open settings <br />
    <img width="120" height="94" alt="image" src="https://github.com/user-attachments/assets/1ee9a3c2-692d-47ad-b20b-be426905e616" /><br />
 2. Scroll down and click on themes <br />
